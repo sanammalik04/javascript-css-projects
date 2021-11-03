@@ -1,0 +1,24 @@
+{
+    "books":[
+    {
+        "title": "quran",
+        "author": "Allah Huakbar",
+        "isbn": "12-345"
+    },
+    {
+        "title": "Hello World",
+        "author": "Sanam Malik",
+        "isbn": "12-464"
+    },
+    {
+        "title": "Happy",
+        "author": "Bridget McGinn",
+        "isbn": "12-533"
+    },
+    {
+        "title": "Learn to Code",
+        "author": "Farah Malik",
+        "isbn": "12-789"
+    }
+    ]
+}
